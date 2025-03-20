@@ -12,3 +12,16 @@
 
 ## Configuration Steps
 
+
+### Login to the agent portal
+
+Username: LabADMIN
+Password: osTicketPassword123!
+
+http://localhost/osTicket/scp/login.php
+
+Click on admin panel on the top right 
+
+![image](https://github.com/user-attachments/assets/c6355bcc-14ae-4b2c-a16d-31fcb8ced5bf)
+
+
