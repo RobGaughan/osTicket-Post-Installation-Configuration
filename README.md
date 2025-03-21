@@ -66,8 +66,8 @@ We should see the role "Super-User" in the updarted roles table:
 ### Configure Departments
 
 The Purpose of departments in osTicket is mainly for ticket "visibility" for example:  
-The "Networking Department" would get assigned network related tickets  
-The "Help Desk Department" Would get assigned tickets like password resets as an example.   
+- The "Networking Department" would get assigned network related tickets  
+- The "Help Desk Department" Would get assigned tickets like password resets as an example.   
 
 These deparments would get assigned tickets that pertain to their department and wouldn't see tickets that are irrelevant 
 
