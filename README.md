@@ -67,13 +67,25 @@ We should see the role "Super-User" in the updarted roles table:
 
 The Purpose of departments in osTicket is mainly for ticket "visibility" for example:  
 - The "Networking Department" would get assigned network related tickets  
-- The "Help Desk Department" Would get assigned tickets like password resets as an example.   
+- The "Support Department" Would get assigned tickets like password resets as an example.   
 
-These deparments would get assigned tickets that pertain to their department and wouldn't see tickets that are irrelevant 
+These departments would get assigned tickets that pertain to their department and wouldn't see tickets that are irrelevant 
 
- Navigate to Agents > Departments
+Lets now create a "SysAdmins" Department
 
- ![image](https://github.com/user-attachments/assets/e1e3f466-1b37-4190-b3e7-cf72167467e4)
+ Navigate to Agents > Departments > click on "Add New Department"
+
+![image](https://github.com/user-attachments/assets/90d97d32-485d-48f2-84b1-2eadf09d20aa)
+
+Lets now create a "SysAdmins" Department
+
+Choose Top-Level Department and name it `SysAdmins` Thats all the configuration for now. click "Create Dept"
+
+![image](https://github.com/user-attachments/assets/64d557f8-0f87-4fb4-a29b-3431560f8e91)
+
+
+
+
 
 
 ### Configure Teams
