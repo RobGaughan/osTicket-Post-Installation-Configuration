@@ -104,6 +104,8 @@ Name it "Online Banking" and click Create
 
 ### Configure Agents
 
+Agents are other workers who can view and work tickets
+
 Navigate to Agents > Add New
 
 ![image](https://github.com/user-attachments/assets/d1c5b74b-4cad-4f08-8b3d-a8c04a2e8535)
@@ -130,12 +132,18 @@ The updated agent table should look like this after creating Jane and John
 
 ![image](https://github.com/user-attachments/assets/4d28bf61-0ae2-48e0-b637-d02699645859)
 
-
-
-
 ### Configure Users
 
-Navigate to Users > Add New
+Now we will add end users who can submit tickets
+
+*On the agent panel* Navigate to Users > Add New
+
+![image](https://github.com/user-attachments/assets/0abce924-c715-4c73-a47c-6f0e56ce9e1f)
+
+Create user named karen then click add user
+
+![image](https://github.com/user-attachments/assets/f24c470a-5b38-49ea-bbb6-01a8bad356ad)
+
 
 ### Configure SLA (Service Level Agreement)
 
