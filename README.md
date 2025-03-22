@@ -58,7 +58,7 @@ Take note of some of the permissons we can assign to roles
 
 After we enabled all permissions click "Add Role"
 
-We should see the role "Super-User" in the updarted roles table: 
+We should see the role "Super-User" in the updated roles table: 
 
 ![image](https://github.com/user-attachments/assets/8a67466b-b732-4ae2-8019-67e98477b0f9)
 
@@ -83,18 +83,39 @@ Choose Top-Level Department and name it `SysAdmins` Thats all the configuration 
 
 ![image](https://github.com/user-attachments/assets/64d557f8-0f87-4fb4-a29b-3431560f8e91)
 
+We should see the Department "SysAdmins" in the updated Department table: 
 
-
-
-
+![image](https://github.com/user-attachments/assets/2c877bc2-e850-44a4-87ae-52cb6f49e709)
 
 ### Configure Teams
 
-Navigate to  Agents > Teams
+Teams can combine users from multiple departments together 
+
+We will create an "Online Banking" team 
+
+Navigate to  Agents > Teams > click on "Add New Team"
+
+![image](https://github.com/user-attachments/assets/fff5add8-9e7f-4f46-b540-cd579dc8c43b)
+
+Name it "Online Banking" and click Create
+
+![image](https://github.com/user-attachments/assets/a24ebe81-a44a-4f5e-8869-89d9b0ca602d)
+
 
 ### Configure Agents
 
 Navigate to Agents > Add New
+
+![image](https://github.com/user-attachments/assets/d1c5b74b-4cad-4f08-8b3d-a8c04a2e8535)
+
+Create user Jane Doe
+
+![image](https://github.com/user-attachments/assets/a25f1e35-a56b-4f16-b0f1-c5a7c0a7c260)
+
+![image](https://github.com/user-attachments/assets/c1c136a5-f319-4326-bf82-949b8bbdd148)
+
+![image](https://github.com/user-attachments/assets/7dc54910-470f-4afa-b958-01bd79009a23)
+
 
 ### Configure Users
 
