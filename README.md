@@ -147,7 +147,15 @@ Create user named karen then click add user
 
 ### Configure SLA (Service Level Agreement)
 
-Navigate to  Manage > SLA
+*On the admin panel* Navigate to  Manage > SLA > click "Add New SLA Plan"
+
+![image](https://github.com/user-attachments/assets/e37e7f84-551a-439e-8dae-e5b2cff793fc)
+
+
+We will be setting 3 severity level SLAs
+- Sev-A (Grace Period: 1 hour, Schedule: 24/7) -- Major Problems that must be addressed ASAP
+- Sev-B (Grace Period: 4 hours, Schedule: 24/7) -- Problems that must be addressed relatively quickly 
+- Sev-C (Grace Period: 8 hours, Business Hours) -- Normal Problems 
 
 ### Configure Help Topics
 
