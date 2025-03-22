@@ -168,7 +168,22 @@ Click > "Add Plan"
 
 #### Setting Sev-B
 
+Name: `Sev-B`  
+Grace Period: `4`  
+Schedule: 24/7     
+Click > "Add Plan"  
+![image](https://github.com/user-attachments/assets/7877d514-912a-4624-807c-a40ce66cccd0)
+
+
 #### Setting Sev-C
+
+Name: `Sev-A`  
+Grace Period: `8`  
+Schedule: `Monday - Friday 8am - 5pm with U.S. Holidays`   
+Click > "Add Plan"  
+![image](https://github.com/user-attachments/assets/3dd72ee0-101e-403b-8cc5-b4b5e13d9da2)
+
+
 
 ### Configure Help Topics
 
