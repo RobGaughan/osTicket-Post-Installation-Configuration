@@ -117,6 +117,22 @@ Create user Jane Doe
 ![image](https://github.com/user-attachments/assets/7dc54910-470f-4afa-b958-01bd79009a23)
 
 
+Create user John Doe
+
+Repeat the same steps as above however this time assign this user to the support department with view only privlages 
+
+![image](https://github.com/user-attachments/assets/4ff951ba-743e-4a9c-b901-5c82f06c93f0)
+
+![image](https://github.com/user-attachments/assets/2bd3abbc-cfd1-44a2-a6eb-1317536299b0)
+
+
+The updated agent table should look like this after creating Jane and John
+
+![image](https://github.com/user-attachments/assets/4d28bf61-0ae2-48e0-b637-d02699645859)
+
+
+
+
 ### Configure Users
 
 Navigate to Users > Add New
