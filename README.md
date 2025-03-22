@@ -157,6 +157,19 @@ We will be setting 3 severity level SLAs
 - Sev-B (Grace Period: 4 hours, Schedule: 24/7) -- Problems that must be addressed relatively quickly 
 - Sev-C (Grace Period: 8 hours, Business Hours) -- Normal Problems 
 
+#### Setting Sev-A
+
+Name: `Sev-A`  
+Grace Period: `1`  
+Schedule: 24/7  
+Click > "Add Plan"
+![image](https://github.com/user-attachments/assets/29403359-682f-4298-bc1f-0f49b4b5a201)
+
+
+#### Setting Sev-B
+
+#### Setting Sev-C
+
 ### Configure Help Topics
 
 Navigate to Manage > Help Topics
