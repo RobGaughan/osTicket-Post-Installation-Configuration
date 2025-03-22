@@ -187,7 +187,30 @@ Click > "Add Plan"
 
 ### Configure Help Topics
 
-Navigate to Manage > Help Topics
+Now we will add the following help topics:
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+
+Navigate to Manage > Help Topics > "Add New Help Topic"  
+
+![image](https://github.com/user-attachments/assets/a606eacc-d66f-4cbc-b88b-7b1316b4f210)
+
+![image](https://github.com/user-attachments/assets/3bdaa11f-133e-409b-87c2-9529227f2820)
+
+Contine to add all the topics
+
+Once done it should look like this: 
+![image](https://github.com/user-attachments/assets/f78e2444-89e8-4e4c-936e-a76cdeb27772)
+
+
+Thats it for this lab! We have concluded our inital setup for osTicket
+
+## Next steps
+
+
 
 
 
