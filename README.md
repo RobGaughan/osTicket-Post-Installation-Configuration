@@ -210,6 +210,7 @@ Thats it for this lab! We have concluded our inital setup for osTicket
 
 ## Next steps
 
+[osTicket: Creating and Working Tickets](https://github.com/RobGaughan/osTicket-Creating-and-Working-Tickets/tree/main)
 
 
 
