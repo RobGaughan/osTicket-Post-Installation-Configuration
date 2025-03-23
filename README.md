@@ -118,6 +118,16 @@ Create user Jane Doe
 
 ![image](https://github.com/user-attachments/assets/7dc54910-470f-4afa-b958-01bd79009a23)
 
+Set Jane Doe's password
+
+Navigate to Agents > Agents > Select Jane doe
+
+![image](https://github.com/user-attachments/assets/13bd1d92-df61-459e-aec4-431f9bf6b79a)
+
+Click set password > Set password to: `osTicketPassword123!`
+
+![image](https://github.com/user-attachments/assets/3765d0db-ef54-4af0-a11e-aa0f6bf59228)
+
 
 Create user John Doe
 
@@ -126,6 +136,16 @@ Repeat the same steps as above however this time assign this user to the support
 ![image](https://github.com/user-attachments/assets/4ff951ba-743e-4a9c-b901-5c82f06c93f0)
 
 ![image](https://github.com/user-attachments/assets/2bd3abbc-cfd1-44a2-a6eb-1317536299b0)
+
+Set John Doe's password
+
+Navigate to Agents > Agents > Select John Doe
+
+![image](https://github.com/user-attachments/assets/48ef21de-34a3-4f44-beab-8706c8770548)
+
+Click set password > Set password to: `osTicketPassword123!`
+
+![image](https://github.com/user-attachments/assets/20b70377-78dc-450d-afff-c0348abcf4af)
 
 
 The updated agent table should look like this after creating Jane and John
